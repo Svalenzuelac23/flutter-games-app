@@ -1,16 +1,35 @@
-# flutter_game_app
+## FLUTTER GAME STORE APP
+___
+## Inspiración
 
-A new Flutter project.
 
-## Getting Started
+<img src="./screenshots/diseño.jpeg" alt="Inspiration" />
 
-This project is a starting point for a Flutter application.
+___
+## Aplicación Flutter
+### Descripción
 
-A few resources to get you started if this is your first Flutter project:
+Aplicacion de tienda de videojuegos en linea de la franquisia de Play Station.
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+Alguno detalles de la aplicación:
+- Diseño moderno
+- Hidden drawer menu
+- Animaciones (TweenAnimation, AnimatedWidget, AnimationController, etc)
+- Sin uso de packages
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Capturas de pantalla
+<TABLE BORDER>
+    <TR>
+        <TH style="text-align:center">Menu principal</TH>
+        <TH style="text-align:center">Busqueda de juegos</TH>
+        <TH style="text-align:center">Detalles del juego</TH>
+    </TR>
+	<TR>
+		<TD><img src="./screenshots/2.png" alt="Menu Principal" width="200"/></TD> 
+        <TD><img src="./screenshots/1.png" alt="Busqueda de juegos" width="200"/></TD> 
+        <TD><img src="./screenshots/3.png" alt="Detalles del juego" width="200"/></TD>
+	</TR>
+</TABLE>
+
+## Demo en dispositivo fisico
+<img src="./screenshots/flutter_movie_app2.gif" alt="Inspiration"/>
